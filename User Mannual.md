@@ -1,4 +1,4 @@
-There are two files: train.py; generate.py
+There are two files: caption_train.py; generate.py
 
 ## caption_train.py
 is used to train the model. 
